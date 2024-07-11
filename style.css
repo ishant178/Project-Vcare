@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+.header{
+    color: white;
+    background-color:#273272 ;
+    padding: 18px;
+    
+    }
+.head {
+    display: inline-block;
+    margin-left: 80px;
+    
+}
+.head2{
+    display: inline-block;
+    margin-left: 20px;
+}
+.subhead{
+    float: right;
+    font-weight: 500;
+    margin: 14px;
+    
+}
+button{
+    background-color: #9f4257;
+    border-radius: 14px;
+    font-size: 15px;
+    padding: 12 24 ;
+    float: right;
+}
+.vcare img{
+    float: left;
+    margin-left: 40px;
+    height: 70px;
+}
+.section2{
+    float: right;
+}
