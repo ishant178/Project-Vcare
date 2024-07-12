@@ -35,5 +35,25 @@ button{
     height: 70px;
 }
 .section2{
-    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px;
+    list-style: none;
+}
+
+.img2{
+    display: flex;
+    margin-left: 650px;
+    width: 150px;
+    margin-top: -170px;
+}
+.main_section{
+    box-sizing: border-box;
+    background-color: #3D75B6;
+}
+.main{
+      margin-top: 100px;
+      
+
 }
